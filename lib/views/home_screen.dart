@@ -30,7 +30,9 @@ class _HomeScreenState extends State<HomeScreen> {
                 return const Text("Error Syncing Data");
               }
               if (snapshot.hasData) {
-                return Container();
+                return Container(
+                  child: Text(snapshot.data?.status.name ?? "NO Data"),
+                );
               } else {
                 return const Text("No Data Found");
               }
