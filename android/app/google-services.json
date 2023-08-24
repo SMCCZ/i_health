@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "231224602887",
+    "project_id": "my-chat-bot-0017000",
+    "storage_bucket": "my-chat-bot-0017000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231224602887:android:86a265cc82e26db383d5a2",
+        "android_client_info": {
+          "package_name": "com.example.first_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231224602887-4l7boa2sofga271dot7t99nlc2pk0gqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBimwsfHBxsjKNbGRCafem6Ykr152VRvoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231224602887-4l7boa2sofga271dot7t99nlc2pk0gqa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "231224602887-b9l79t7qv39a8j8smjk94c9p5tce3o15.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firstFlutterApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231224602887:android:59f8efcfc97e272a83d5a2",
+        "android_client_info": {
+          "package_name": "com.example.i_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231224602887-4l7boa2sofga271dot7t99nlc2pk0gqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBimwsfHBxsjKNbGRCafem6Ykr152VRvoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231224602887-4l7boa2sofga271dot7t99nlc2pk0gqa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "231224602887-b9l79t7qv39a8j8smjk94c9p5tce3o15.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firstFlutterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
