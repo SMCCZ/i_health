@@ -27,7 +27,7 @@ class TryVital {
         ),
       ),
     );
-   var response=await client.userService.createUser("000-0000-4567-2344-777");
+   var response=await client.userService.createUser("b199a85f-f76a-4932-abdf-4a0146acca9b");
     tryVitalHealthService.setUserId(response.bodyString);
     //ask for permissions
     tryVitalHealthService.syncData();
