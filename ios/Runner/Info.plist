@@ -22,6 +22,20 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>NSHealthShareUsageDescription</key>
+	<string>Health Share Access Required</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>Health Share Access Required</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Microphone access needed</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>i needs to access your gallery to upload profile camera</string>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<string>i needs to access your gallery to upload profile picture</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>i needs to access your Bluetooth to connect health devices</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>i needs to access your Bluetooth to connect health devices</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
